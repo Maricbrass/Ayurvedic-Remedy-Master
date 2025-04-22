@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does Ayurveda mean?",
+    "options": ["Knowledge of Life", "Science of Food", "Healing through Yoga", "Art of Living"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which dosha is associated with fire and water?",
+    "options": ["Vata", "Pitta", "Kapha", "Agni"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which of the following is commonly used to improve digestion?",
+    "options": ["Ashwagandha", "Ginger", "Neem", "Tulsi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the primary taste (Rasa) of Neem?",
+    "options": ["Sweet", "Bitter", "Sour", "Pungent"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which herb is known to boost immunity in Ayurveda?",
+    "options": ["Turmeric", "Cumin", "Cardamom", "Clove"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Kapha dosha is made of which elements?",
+    "options": ["Air and Ether", "Fire and Water", "Water and Earth", "Fire and Air"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which time of the day is ideal for consuming heavy meals according to Ayurveda?",
+    "options": ["Morning", "Afternoon", "Evening", "Night"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Triphala is a combination of how many fruits?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Tulsi is commonly used to treat which condition?",
+    "options": ["Indigestion", "Cough and Cold", "Joint Pain", "Skin Allergy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which of the following practices is highly recommended in Ayurveda for daily detox?",
+    "options": ["Yoga", "Meditation", "Oil Pulling", "Steam Bath"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which dosha is responsible for movement and communication in the body?",
+    "options": ["Vata", "Pitta", "Kapha", "Rakta"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which part of turmeric is used in remedies?",
+    "options": ["Leaf", "Root", "Seed", "Bark"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the preferred oil for Abhyanga (self-massage) for Vata dosha?",
+    "options": ["Coconut Oil", "Castor Oil", "Sesame Oil", "Mustard Oil"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which of the following herbs is NOT used for improving memory?",
+    "options": ["Brahmi", "Shankhpushpi", "Ashwagandha", "Ajwain"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Which is considered a cooling herb in Ayurveda?",
+    "options": ["Black Pepper", "Mint", "Ginger", "Mustard"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which dosha is increased by consuming fried and oily food?",
+    "options": ["Vata", "Kapha", "Pitta", "None"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which plant is known for its use in treating skin disorders?",
+    "options": ["Aloe Vera", "Coriander", "Fenugreek", "Basil"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is 'Agni' in Ayurveda?",
+    "options": ["Internal Fire", "Wind", "Water Flow", "Pulse"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which of these is NOT a fundamental concept in Ayurveda?",
+    "options": ["Dosha", "Rasa", "Chakra", "Agni"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which herb is primarily used in Ayurvedic remedies for stress relief?",
+    "options": ["Ashwagandha", "Cumin", "Triphala", "Neem"],
+    "correctAnswerIndex": 0
+  }
+]

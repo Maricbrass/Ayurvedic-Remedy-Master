@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 223115acfa170794983eb078494ea496
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPrefab: {fileID: 7000345886229271576, guid: e433f26e736918842bdce2dc28dcb6d6, type: 3}
+  - contentPanel: {instanceID: 0}
+  - ingredientsText: {instanceID: 0}
+  - recipeText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

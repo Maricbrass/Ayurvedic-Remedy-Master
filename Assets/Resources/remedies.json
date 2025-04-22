@@ -1,0 +1,58 @@
+{
+  "remedies": [
+    {
+    "name": "Constipation",
+    "ingredients": ["Garlic", "Dry Ginger", "Black Pepper", "Leucas Aspera (Pimpidi)", "Jeera"],
+    "instructions": "Mix the ingredients and consume to improve bowel movements.",
+    "benefits": "Promotes regular bowel movements, relieves abdominal discomfort, improves digestive health, and helps detoxify the body."
+    },
+    {
+    "name": "Mouth Ulcers",
+    "ingredients": ["Coconut Oil", "Camphor", "Clove", "Lemon"],
+    "instructions": "Apply the herbal oil mixture to the affected area for relief.",
+    "benefits": "Reduces pain and inflammation, accelerates healing, fights bacterial infection, and soothes irritated tissues."
+    },
+    {
+    "name": "Swelling",
+    "ingredients": ["Guggul", "Vekhanda", "Hing (Asafoetida)"],
+    "instructions": "Crush and warm the ingredients before applying to the swollen area.",
+    "benefits": "Reduces inflammation, improves circulation, alleviates pain, and helps remove excess fluid from tissues."
+    },
+    {
+    "name": "Bloating and Indigestion",
+    "ingredients": ["Pimpidi", "Cardamom (Elaichi)", "Candy Sugar", "Cinnamon", "Bamboo Manna"],
+    "instructions": "Consume the mixture to improve digestion and reduce bloating.",
+    "benefits": "Relieves gas and bloating, stimulates digestive enzymes, soothes the digestive tract, and improves overall gut health."
+    },
+    {
+    "name": "Heartburn",
+    "ingredients": ["Sutshekhar"],
+    "instructions": "Take Sutshekhar to help with acidity and digestive discomfort.",
+    "benefits": "Neutralizes excess stomach acid, provides relief from burning sensation, heals damaged stomach lining, and improves digestive function."
+    },
+    {
+    "name": "Cold",
+    "ingredients": ["Dry Ginger", "Vekhanda"],
+    "instructions": "Apply the mixture for relief from cold.",
+    "benefits": "Relieves nasal congestion, reduces inflammation in respiratory passages, boosts immunity, and helps clear mucus."
+    },
+    {
+    "name": "Cough",
+    "ingredients": ["Dry Ginger", "Black Pepper", "Pimpidi", "Peeled Pippali", "Rosary Pea (Kal Khapri)"],
+    "instructions": "Consume the mixture for cough relief.",
+    "benefits": "Soothes irritated throat, reduces coughing frequency, loosens and expels phlegm, and supports respiratory health."
+    },
+    {
+    "name": "Numbness",
+    "ingredients": ["Hing (Asafoetida)", "Vekhanda", "Garlic"],
+    "instructions": "Boil the crushed ingredients in sesame oil and apply to the affected area.",
+    "benefits": "Improves blood circulation, stimulates nerve function, reduces tingling sensation, and relieves discomfort in affected areas."
+    },
+    {
+    "name": "Blunt Trauma",
+    "ingredients": ["White Turmeric", "Red Creeper", "Tulsi"],
+    "instructions": "Form a paste, warm it, and apply to the swollen area for pain relief.",
+    "benefits": "Reduces swelling and bruising, alleviates pain, accelerates tissue healing, and improves blood circulation to injured areas."
+    }
+  ]
+  }
