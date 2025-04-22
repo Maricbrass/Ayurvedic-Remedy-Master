@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3b131e605dd35b24bb18a884a451599c
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: deb50e0c3e43924479cb7eedfe276636
+  - enabled: 1
+    path: Assets/Scenes/IngredientSelection.unity
+    guid: 9c3d418c0a1e24b4fb14e2e287f757c6
+  - enabled: 1
+    path: Assets/Scenes/CookingScene.unity
+    guid: 65ecc9ca6b95d63419850f3be47a451f
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: 8deff6f9564030d418a5be3a1db96e3f
+  - enabled: 1
+    path: Assets/Scenes/LearnPage1.unity
+    guid: 09eb44bb19a00114b83754538bdfa7b8
+  - enabled: 1
+    path: Assets/Scenes/LearnPage2.unity
+    guid: 97fc56400a8a27d458340b974f7f95f9
+  - enabled: 1
+    path: Assets/Scenes/LearnPage3.unity
+    guid: b7c963dabcabbd542a7b25223e000dea
+  - enabled: 1
+    path: Assets/Scenes/QuizPage.unity
+    guid: cac85c57ff579264984caded7a5f9b2e
+  m_configObjects: {}
